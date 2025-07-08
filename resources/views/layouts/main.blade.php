@@ -20,13 +20,13 @@
       <meta name="description" content="Kelola reels, story, dan konten visual lainnya untuk memperkuat interaksi dan meningkatkan penjualan dengan Digimar.">
       <meta name="keywords" content="manajemen sosial media, jadwal posting, analisa media sosial, strategi konten, branding digital, dashboard sosial media, digimar sosial media"> --}}
       <meta name="author" content="ig.digimar.id">
-      <meta property="og:title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagra">
+      <meta property="og:title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagram">
       <meta property="og:description" content="Kelola reels, story, dan konten visual lainnya untuk memperkuat interaksi dan meningkatkan penjualan dengan Digimar.">
       <meta property="og:type" content="website">
       <meta property="og:url" content="https://ig.digimar.id">
       <meta property="og:image" content="{{ asset('logodark.svg') }}">
       <meta name="twitter:card" content="summary_large_image">
-      <meta name="twitter:title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagra">
+      <meta name="twitter:title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagram">
       <meta name="twitter:description" content="Kelola reels, story, dan konten visual lainnya untuk memperkuat interaksi dan meningkatkan penjualan dengan Digimar.">
       <meta name="twitter:image" content="{{ asset('logodark.svg') }}">
 
