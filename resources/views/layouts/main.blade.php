@@ -18,7 +18,7 @@
       {{-- <title>ig.digimar.id - Bangun Branding Kuat Lewat Instagram</title>
       <meta name="title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagram">
       <meta name="description" content="Kelola reels, story, dan konten visual lainnya untuk memperkuat interaksi dan meningkatkan penjualan dengan Digimar.">
-      <meta name="keywords" content="manajemen sosial media, jadwal posting, analisa media sosial, strategi konten, branding digital, dashboard sosial media, digimar sosial media"> --}}
+      <meta name="keywords" content="manajemen sosial media, jadwal posting, analisa media sosial, strategi konten, branding digital, dashboard sosial media, digimar sosial media, reels, story"> --}}
       <meta name="author" content="ig.digimar.id">
       <meta property="og:title" content="ig.digimar.id - Bangun Branding Kuat Lewat Instagram">
       <meta property="og:description" content="Kelola reels, story, dan konten visual lainnya untuk memperkuat interaksi dan meningkatkan penjualan dengan Digimar.">
